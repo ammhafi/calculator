@@ -7,10 +7,12 @@
 body {
     padding: 0;
     margin: 0;
-    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    background: linear-gradient(to right, #15133C, #2C74B3);
 }
 
+
 .calculator-grid {
+    margin: 50px auto;
     display: grid;
     justify-content: center;
     align-items: center;
